@@ -1,0 +1,12 @@
+
+100000;;;
+;1;Library creation [ms];163.00
+;2;Sort by vote [ms];91.00
+
+100000;;;
+;1;Library creation [ms];191.00
+;2;Sort by vote [ms];96.00
+
+100000;;;
+;1;Library creation [ms];192.00
+;2;Sort by vote [ms];96.00

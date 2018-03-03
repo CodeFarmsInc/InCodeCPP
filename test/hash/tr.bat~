@@ -1,0 +1,6 @@
+call clean
+..\..\codegen ds.def ..\..\lib gen
+cl hash.cpp
+REM hash > hash.res
+hash 
+..\diff hash.res hash.out

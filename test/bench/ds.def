@@ -1,0 +1,6 @@
+Association LinkedList2<Library,Book> books;
+Association Name<Book> bookTitle;
+Association Name<Book> bookAbstract;
+Association LinkedList2<Library,Author> authors;
+Association Name<Author> authorName;
+Association 2XtoX<BookToAuthor,Book,Author> booksToAuthors;
